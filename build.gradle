@@ -54,7 +54,7 @@ dependencies {
     compile('javax.servlet:jstl')
     compile('mysql:mysql-connector-java')
     compile('org.apache.tomcat.embed:tomcat-embed-jasper')
-    compile('org.apache.derby:derby:10.13.1.1')
+    compile('org.apache.derby:derby:10.17.1.0')
     compile('org.apache.commons:commons-lang3:3.0')
     compile('org.owasp.esapi:esapi:2.1.0.1')
     compile("org.jetbrains.kotlin:kotlin-stdlib-jre8:${kotlinVersion}")
